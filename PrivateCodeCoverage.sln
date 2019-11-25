@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrivateCodeCoverage.Specs", "PrivateCodeCoverage.Specs\PrivateCodeCoverage.Specs.csproj", "{46AE87F7-2A5D-410B-B7E5-FDA0E725830C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrivateCodeCoverage", "PrivateCodeCoverage\PrivateCodeCoverage.csproj", "{7128EC94-AC4C-4EDF-BD5E-D91A8BCCD2E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46AE87F7-2A5D-410B-B7E5-FDA0E725830C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46AE87F7-2A5D-410B-B7E5-FDA0E725830C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46AE87F7-2A5D-410B-B7E5-FDA0E725830C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46AE87F7-2A5D-410B-B7E5-FDA0E725830C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7128EC94-AC4C-4EDF-BD5E-D91A8BCCD2E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7128EC94-AC4C-4EDF-BD5E-D91A8BCCD2E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7128EC94-AC4C-4EDF-BD5E-D91A8BCCD2E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7128EC94-AC4C-4EDF-BD5E-D91A8BCCD2E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A91BE3E9-D245-4053-93DA-5F55BA718149}
+	EndGlobalSection
+EndGlobal
